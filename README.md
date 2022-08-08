@@ -6,7 +6,7 @@
 - Repository : **`React-World`**
 - Site : <a href="https://react-world-prod.netlify.app/" target="_blank"> React world app </a>
 
-### Back config :
+## Back config :
 
 I made the database with a json file for the blog tab where the person can put a comment of 140 lines minimum, he can also delete or correct his comment. (The system does not work on the site, because the db is a js file ("localhost:3004"). To be able to use this tab you have to take the file and do the following command on your text editor
 
@@ -19,14 +19,16 @@ I made the database with a json file for the blog tab where the person can put a
 ![Capture](https://user-images.githubusercontent.com/98493546/183430294-99f6ffa2-1a18-4640-a397-3184a49a9383.PNG)
 
 
-### Front config :
+## Front config :
 
 For the front I used react and sass
 
 - 1 : `npm i sass` to install sass
 
-### Screenshot of the site
+## Screenshot of the site
 
 ![Capture](https://user-images.githubusercontent.com/98493546/183430851-b1c92ef3-422d-4618-ac0b-ea7a8d34ec82.PNG)
 
+## Site :
 
+<a href="https://react-world-prod.netlify.app/" target="_blank"> React world app </a>
